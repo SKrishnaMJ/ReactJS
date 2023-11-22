@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-//Stateless Functional Component
+//Stateless Functional Component (can use sfc)
 const NavBar = ({totalCounters}) => {
     return (<nav className ="navbar bg-body-tertiary">
         <div className ="container-fluid">
